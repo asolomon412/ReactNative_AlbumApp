@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { View } from 'react-native';
-import AlbumDetail from './src/components/AlbumDetail';
+import AlbumDetail from './AlbumDetail';
 
 class AlbumList extends Component {
 
