@@ -33,7 +33,9 @@ return (
         </CardSection>
 
         <CardSection>
-        <Button userPress={() => Linking.openURL(url)} />
+        <Button userPress={() => Linking.openURL(url)}>
+          BUY NOW
+        </Button>
         </CardSection>
     </Card>
   );
